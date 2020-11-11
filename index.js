@@ -16,5 +16,4 @@ fetch('people.json')
             const div = document.createElement('div');
             div.innerHTML
         })
-    })ff
-d
+    })
